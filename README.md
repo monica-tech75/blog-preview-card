@@ -16,7 +16,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -38,10 +38,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/monica-tech75/blog-preview-card)
+
 
 ## My process
+I start placing the card in the center using grid in the body. I don't know if is the correct way to do it, but it work.
+I also create variables for the colors. Then I put the images.(It's my cat, moony).
+I also start trying not to use pixels so much.
+Recently I learn about vh and vw and is amazing.
 
 ### Built with
 
@@ -78,7 +82,7 @@ I gonna start to learn about grid, I think It can be easy to understand or less 
 ## Author
 
 - Website - [Monica Pardo](https://github.com/monica-tech75)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/monica-tech75)
+- Frontend Mentor - [@monica-tech75](https://www.frontendmentor.io/profile/monica-tech75)
 
 
 
